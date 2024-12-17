@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f5f5; /* Color de fondo suave */
+  color: #333; /* Color de texto */
+  justify-content: center;
+}
+
+/* Estilo para el formulario */
+form {
+  background-color: #fff; /* Fondo blanco */
+  border: 1px solid #ddd; /* Borde suave */
+  border-radius: 8px; /* Bordes redondeados */
+  padding: 20px; /* Espaciado interno */
+  width: 100%;
+  max-width: 400px; /* Ancho máximo */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
